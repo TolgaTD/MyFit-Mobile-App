@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">MyFit</string>
+    <string name="title_activity_third">ThirdActivity</string>
+
+    <string name="pose1">    Adım 1:- Kollarınız tamamen düz ve omuzlarınızın hemen altında olacak şekilde şınav pozisyonunda başlayın.\n\n
+                         Adım 2:- Vücudunuz omuzlarınızdan ayak bileklerinize kadar düz bir çizgi oluşturmalıdır. \n\n
+                         Adım 3:- Karın kaslarınızı sıkın, bir ayağınızı yerden kaldırın ve dizinizi göğsünüze doğru getirirken vücudunuzu mümkün olduğunca düz bir çizgide tutun. \n\n
+                         Adım 4:- Başlangıç pozisyonuna dönün ve hareketi diğer bacağınızla tekrarlayın. </string>
+
+    <string name="pose2">    Adım 1:- Dizler bükülmüş ve ayaklar matın üzerinde olacak şekilde matın üzerine düz uzanın. Ellerinizi başınızın altında ve dirsekler dışarıya doğru bakacak şekilde tutun. Karın kaslarınızı kullanarak başınızı ve omuzlarınızı matın üzerinden kaldırın ve bir mekik pozisyonuna gelin, ardından kontrollü bir şekilde aşağı inin. </string>
+
+    <string name="pose3">    Adım 1:- Bu hareket bir bank ve bir ayak taburesi ile yapılır.\n\n
+                         Adım 2:- Arkasında bir bank yerleştirin ve ellerinizle üzerinde dinlenin. Bacaklarınızı önünüze doğru düz bir şekilde uzatın. Ayrıca yukarıdaki gibi yükseltilmiş bir seviyeye de koyabilirsiniz.\n\n
+                         Adım 3:- Kollarınızı tamamen düz tutarak başlayın. Dirseklerinizde bükülmeye başlayın ve vücudunuzun geri kalanını düz tutun. Dirseklerinizi geri ve birbirine yakın tutun.\n\n
+                         Adım 4:- Kollarınız 90 derece açı oluşturana ve triseps kaslarınızda bir gerilme hissedene kadar aşağı inin.\n\n
+                         Adım 5:- Yavaşça kollarınızı uzatarak vücudunuzu tekrar yukarı kaldırın. Üst pozisyonda duraklayın ve triseps kaslarınızı kasın. Duraklayın ve hareketi tekrarlayın. </string>
+
+    <string name="pose4">    Adım 1:- Alt sırtınızı yere bastırarak (göbek deliğinizi içeri çekerek derin karın kaslarınızı hedefleyin) yere düz uzanın. \n\n
+                         Adım 2:- Ellerinizi başınızın arkasına koyun, ardından dizlerinizi göğsünüze doğru getirin ve omuz bıçaklarınızı yerden kaldırın, ancak boynunuzu çekmemeye dikkat edin.\n\n
+                         Adım 3:- Sağ bacağınızı yere yaklaşık 45 derece açıyla düzleştirirken, üst vücudunuzu sola döndürerek sağ dirseğinizi sol dize doğru getirin.\n\n
+                         Adım 4:- Kaburgalarınızın hareket ettiğinden ve sadece dirseklerinizin olmadığından emin olun. Şimdi taraf değiştirin ve aynı hareketi diğer tarafta tekrarlayarak bir tekrar tamamlayın. </string>
+
+    <string name="pose5">    Adım 1:- Destek için elleriniz yanlarınızda olacak şekilde yere uzanın. \n\n
+                         Adım 2:- Karın kaslarınızı sıkı tutarak bacaklarınızı yerden kaldırın.\n\n
+                         Adım 3:- Bacaklarınızı yavaşça 90 dereceye kaldırarak karın kaslarınızı kasın. Başlangıç pozisyonuna yavaşça geri dönün. Ayaklarınızı yere değdirmeyin.\n\n </string>
+
+    <string name="pose6">    Adım 1:- Bir egzersiz matının üzerinde sırt üstü uzanın. Kollarınız yanlarınızda düz, dizlerinizi bükün ve ayaklarınızı yerden 18 ila 24 inç (yaklaşık 45-60 cm) aralıkla yere yerleştirin.\n\n
+                         Adım 2:- Nefes vererek, karın kaslarınızı hafifçe yukarı ve sağa doğru birkaç inç (yaklaşık 5-10 cm) kaldırarak sağ elinizin sağ topuğunuza dokunmasını sağlayın.\n\n
+                         Adım 3:- Kısa bir süre tutun ve nefes alarak başlangıç pozisyonunuza geri dönün. Sol tarafta tekrarlayın. </string>
+
+    <string name="pose7">    Adım 1:- Düz bacak mekikleri, bacaklarınız düz ve üst vücudunuzu standart bükülmüş diz mekikleri gibi hareket ettirerek sırt üstü yatarak yapılabilir.\n\n
+                         Adım 2:- Alternatif olarak, sırt üstü yatın, bacaklarınızı yere dik olacak şekilde kaldırın ve ardından üst bedeninizi standart mekik hareketi yaparak kaldırın. </string>
+
+    <string name="pose8">    Adım 1:- Ayaklarınızı hareket etmeyecek bir şeyin altına yerleştirerek ya da bir partnerinizin tutmasını sağlayarak yere uzanın. Bacaklarınız dizlerinizden bükülmüş olmalıdır. Ellerinizi başınızın arkasına koyun ve parmaklarınızı kenetleyerek birbirine kilitleyin. Bu başlangıç pozisyonudur.\n\n
+                         Adım 2:- Üst bedeninizi yükselterek uyluklarınızla hayali bir V şekli oluşturun. Bu kısmı gerçekleştirirken nefes verin.\n\n
+                         Adım 3:- Bir saniye boyunca kasılmayı hissettiğinizde, üst bedeninizi nefes alarak başlangıç pozisyonuna geri indirin.\n\n
+                         Adım 4:- Önerilen tekrar sayısı kadar tekrarlayın. </string>
+
+    <string name="pose9">    Adım 1:- Sırt üstü yatarken düz bacağı kaldırın, karşı eli uzatarak ayak parmağına dokunun. \n\n
+                         Adım 2:- Lütfen geri dönün, alternatif olarak nefes alarak aşağı inin, nefes vererek ayak parmağına dokunun. </string>
+
+    <string name="pose10">   Adım 1:- Yüksek plank pozisyonunda başlayın, ardından gövdenizi yavaşça yana döndürerek kolunuzu diğer kol ile aynı hizaya gelene kadar kaldırın. \n\n
+                         Adım 2:- Ardından başlangıç pozisyonuna dönün. </string>
+
+    <string name="pose11">   Adım 1:- Dirsekleriniz doğrudan omuzlarınızın altında ve bacaklarınız tamamen uzatılmış şekilde yere yatın.\n\n
+                         Adım 2:- Gövdenizi, omuzlarınızdan ayak bileklerinize kadar düz bir çizgi oluşturacak şekilde havaya kaldırın. Karnınızı sıkın, kalçanızı sıkın. </string>
+
+    <string name="pose12">   Adım 1:- Ayaklarınızı hareket etmeyecek bir şeyin altına yerleştirerek ya da bir partnerinizin tutmasını sağlayarak yere uzanın. Bacaklarınız dizlerinizden bükülmüş olmalıdır. Üst bedeninizi uyluklarınızla hayali bir V şekli oluşturacak şekilde yükseltin. \n\n
+                         Adım 2:- Kollarınız tamamen önünüzde, gövdenize dik olacak şekilde ve eller kenetli olmalıdır. Bu başlangıç pozisyonudur.\n\n
+                         Adım 3:- Bu başlangıç pozisyonudur. Gövdenizi sağ tarafa çevirerek kollarınızı yere paralel olana kadar döndürün ve nefes verin. \n\n
+                         Adım 4:- Bir saniye boyunca kasılmayı tutun ve nefes alarak başlangıç pozisyonuna geri dönün. Şimdi aynı teknikleri uygulayarak sol tarafa geçin. Önerilen tekrar sayısı kadar tekrarlayın. </string>
+
+    <string name="pose13">   Adım 1:- Dizleriniz bükülmüş, ayaklarınız düz ve kalça genişliğinde olacak şekilde sırt üstü yatın. \n\n
+                         Adım 2:- Pelvisinizi yerden 2 inç (yaklaşık 5 cm) aşağı indirin. Kalça kaslarınızı sıkın ve pelvisinizi köprü pozisyonuna geri kaldırın. </string>
+
+    <string name="pose14">   Adım 1:- Yüzüstü yere yatın, kollarınız öne doğru uzatılmış ve bacaklarınız arkaya doğru uzatılmış. \n\n
+                         Adım 2:- Bir hareketle, kollarınızı, bacaklarınızı ve göğsünüzü yerden kaldırmak için kalça ve alt sırtınızı kullanın.\n\n
+                         Adım 3:- Bir saniye tutun, ardından başlangıç pozisyonuna yavaşça geri dönün. </string>
+
+    <string name="pose15">   Adım 1:- Ayakta durun, kollarınızı 90° yanlara doğru uzatın, belden 90° öne doğru eğilin.\n\n
+                                 Adım 2:- Kollarınızı yukarı ve aşağı hareket ettirerek kontrol edin.\n\n
+                                 Adım 3:- Egzersiz sırasında belinizi sabit tutun. </string>
+
+    <string-array name="title_story">
+        <item>Kas Kütlesi Oluştur!</item>
+        <item>matcha yeşil çayı ile kendini yenile!</item>
+        <item>Sadece devam et!</item>
+        <item>Yerine Saymayı bırak!</item>
+        <item>İşini yap!</item>
+        <item>Yoga yap!</item>
+        <item>Bir öğün hazırla!</item>
+    </string-array>
+    <string-array name="details_story">
+        <item>Kas kütlesi oluşturmak, düzenli egzersiz, doğru beslenme ve yeterli dinlenme ile mümkündür. İşte kas kütlesi oluşturmak için bazı ipuçları:\n
+Ağırlık kaldırma antrenmanları yapın: Haftada en az 3 gün, her büyük kas grubu için egzersiz yapın.\n
+Protein açısından zengin besinler tüketin: Tavuk, balık, yumurta, süt ürünleri ve baklagiller gibi.\n
+Yeterince uyuyun: Kaslarınızın onarımı ve büyümesi için gecelik en az 7-8 saat uyku alın.\n
+Su tüketiminizi artırın: Kas sağlığı için vücudunuzu yeterince nemlendirin.</item>
+
+        <item>Matcha yeşil çayı, yüksek antioksidan içeriği ile vücudu yeniler ve enerji verir. İşte matcha yeşil çayının faydaları:\n
+Metabolizmayı hızlandırır ve yağ yakımını destekler.\n
+Enerji seviyelerini artırır ve zihinsel odaklanmayı geliştirir.\n
+Cildi korur ve yaşlanma belirtilerini geciktirir.\n
+Bağışıklık sistemini güçlendirir.</item>
+
+        <item>Motivasyonunuzu kaybettiğinizde, sadece devam etmek önemlidir. İşte nasıl devam edebileceğinize dair bazı ipuçları:\n
+Küçük hedefler belirleyin: Büyük hedefler yerine, başarması daha kolay olan küçük hedefler belirleyin.\n
+Başarılarınızı kutlayın: Küçük bile olsa, her başarıyı kutlayarak kendinizi motive edin.\n
+Egzersizlerinizi çeşitlendirin: Farklı egzersiz türleri deneyerek rutininizi bozmaktan kaçının.\n
+Destek bulun: Bir arkadaş veya egzersiz partneri ile çalışarak motivasyonunuzu artırın.</item>
+
+        <item>Egzersiz yaparken yerine saymak yerine ilerlemeyi hedefleyin. İşte yerine saymayı bırakmanıza yardımcı olacak bazı stratejiler:\n
+Egzersizlerinizi zorlaştırın: Ağırlıkları artırın veya tekrar sayılarını yükseltin.\n
+Yeni egzersizler deneyin: Vücudunuzun farklı kas gruplarını çalıştıracak yeni egzersizler ekleyin.\n
+Kendi sınırlarınızı zorlayın: Kendi konfor alanınızın dışına çıkarak daha fazlasını başarmaya çalışın.</item>
+
+        <item>Motivasyonunuz düşük olsa bile, yapılması gereken işi yapın. İşte işinizi yapmanız için bazı ipuçları:\n
+Disiplinli olun: Egzersiz planınıza sadık kalın ve aksatmadan uygulayın.\n
+Zamanınızı iyi yönetin: Egzersiz için belirli bir zaman dilimi ayırarak düzenli hale getirin.\n
+Hedeflerinizi hatırlayın: Neden başladığınızı ve hedeflerinizi hatırlayarak motivasyonunuzu artırın.</item>
+
+        <item>Yoga, bedeninizi ve zihninizi dengelemeye yardımcı olan mükemmel bir egzersizdir. İşte yoga yapmanın bazı faydaları:\n
+Esnekliği artırır ve kasları güçlendirir.\n
+Stresi azaltır ve zihinsel dinginlik sağlar.\n
+Duruşu düzeltir ve omurga sağlığını korur.\n
+Enerji seviyelerini artırır ve genel sağlık durumunu iyileştirir.</item>
+
+        <item>Sağlıklı bir yaşam tarzı için doğru beslenme çok önemlidir. İşte sağlıklı bir öğün hazırlamak için bazı öneriler:\n
+Dengeli bir tabak oluşturun: Protein, karbonhidrat ve sağlıklı yağları içeren dengeli bir tabak hazırlayın.\n
+Taze ve doğal malzemeler kullanın: İşlenmiş gıdalar yerine taze ve doğal malzemeleri tercih edin.\n
+Renkli tabaklar hazırlayın: Çeşitli sebzeler ve meyvelerle renkli ve besleyici tabaklar oluşturun.\n
+Porsiyon kontrolü yapın: İhtiyacınız kadar yemek yiyin ve aşırı tüketimden kaçının.</item>
+    </string-array>
+
+
+</resources>
